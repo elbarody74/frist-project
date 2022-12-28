@@ -1,0 +1,14 @@
+body{
+	font-size:20px
+}
+
+ul li{
+	line-height: none;
+	text-decoration: none;
+
+	color: red;
+	background-color: black;
+}
+ul{
+	display: flex;
+}
